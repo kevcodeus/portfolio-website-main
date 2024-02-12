@@ -144,7 +144,7 @@ const EmailSection = () => {
             Send Message
           </button>
           {emailSubmitted && (
-            <p className="text-green-500 text-2xl mt- font-semibold ">Email sent successfully!</p>
+            <p className="text-green-500 text-1xl mt- font-semibold ">Email sent successfully!</p>
           )}
         </form>
       </div>
