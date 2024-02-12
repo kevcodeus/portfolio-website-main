@@ -18,7 +18,7 @@ const projectsData = [
   {
     id: 3,
     title: "E-commerce Application",
-    description: "Project 3 Using PhP",
+    description: " Using PhP",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/kevcodeus/Ecomerce",
@@ -27,7 +27,7 @@ const projectsData = [
   {
     id: 4,
     title: "Food Ordering Application",
-    description: "Project 4 UI Design",
+    description: "UI Design",
     image: "/images/projects/4.png",
     tag: ["All", "UI/UX"],
     gitUrl: "https://www.figma.com/file/CeH2aqkwC6rGgFAamcHd6E/E-commerce.?type=design&node-id=1-3&mode=design",
