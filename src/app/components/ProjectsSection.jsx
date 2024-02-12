@@ -11,8 +11,8 @@ const projectsData = [
     description: "Using React,Nextjs",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/kevcodeus/portfolio-website-main",
+    previewUrl: "https://github.com/kevcodeus/portfolio-website-main",
   },
   
   {
