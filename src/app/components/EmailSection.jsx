@@ -21,9 +21,9 @@ const EmailSection = () => {
     e.preventDefault();
 
     const { name, email, subject, message } =useState;
-    const serviceId = "service_o6k85xj";
-    const templateId = "template_kqlwkk3";
-    const publicKey = "Uls4lRKRITBVREoAz";
+    const serviceId = "";
+    const templateId = "";
+    const publicKey = "";
 
     const templateParams = {
       from_name: name,
